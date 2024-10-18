@@ -4,7 +4,7 @@
 
 ## Tabel of contents 
 1. [Codes Overview](#codes-overview) <br>
-2. Documentation <br>
+2. [Codes File](#codes_file) <br>
 3. [Conlusion](#Conlusion) <br>
 
 --------
@@ -34,7 +34,7 @@ Each Python file in the repository includes well-structured code accompanied by 
 **Clear Explanations:** The comments in each file offer helpful explanations, making it easier to understand the concepts. <br>
 **Step-by-Step Learning:** The organized structure of the repository facilitates a gradual learning process. <br>
 
-## Documentation 
+## Codes File 
 
 
 ## Conlusion 
